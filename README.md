@@ -7,8 +7,8 @@
 - [x] 섹션 1. JDBC 이해
     - [x] 프로젝트 생성
     - [x] H2 데이터베이스 설정
-    - [x] JDBC 이해
-    - [x] JDBC와 최신 데이터 접근 기술
+    - [x] [JDBC 이해](https://github.com/hongmoSung/jdbc/blob/main/docs/ch01/jdbc.md)
+    - [x] JDBC 와 최신 데이터 접근 기술
     - [x] 데이터베이스 연결
     - [x] JDBC 개발 - 등록
     - [x] JDBC 개발 - 조회
