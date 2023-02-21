@@ -9,7 +9,7 @@
     - [x] H2 데이터베이스 설정 
     - [x] [JDBC 이해](https://github.com/hongmoSung/jdbc/blob/main/docs/ch01/jdbc.md)
     - [x] [JDBC 와 최신 데이터 접근 기술](https://github.com/hongmoSung/jdbc/blob/main/docs/ch01/jdbc-and-latest-tech.md)
-    - [x] [데이터베이스 연결](https://github.com/hongmoSung/jdbc/blob/main/docs/ch01/driver-manager.md)
+    - [x] [데이터베이스 연결](https://github.com/hongmoSung/jdbc/blob/main/docs/ch01/database-connection.md)
     - [x] JDBC 개발 - 등록
     - [x] JDBC 개발 - 조회
     - [x] JDBC 개발 - 수정, 삭제
