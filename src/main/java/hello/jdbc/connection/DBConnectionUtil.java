@@ -1,12 +1,13 @@
 package hello.jdbc.connection;
 
-import lombok.extern.slf4j.Slf4j;
+import static hello.jdbc.connection.ConnectionConst.PASSWORD;
+import static hello.jdbc.connection.ConnectionConst.URL;
+import static hello.jdbc.connection.ConnectionConst.USERNAME;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
-import static hello.jdbc.connection.ConnectionConst.*;
+import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 public class DBConnectionUtil {
