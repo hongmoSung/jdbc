@@ -16,7 +16,7 @@
     - [x] 정리
 - [x] 섹션 2. 커넥션풀과 데이터소스 이해
     - [x] [커넥션 풀 이해](https://github.com/hongmoSung/jdbc/blob/main/docs/ch02/pool.md)
-    - [x] DataSource 이해
+    - [x] [DataSource 이해](https://github.com/hongmoSung/jdbc/blob/main/docs/ch02/datasource.md)
     - [x] DataSource 예제1 - DriverManager
     - [x] DataSource 예제2 - 커넥션 풀
     - [x] DataSource 적용
